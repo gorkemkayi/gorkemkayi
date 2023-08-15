@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1543946207-39bd91e70ca7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnVsbCUyMGhkJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww&w=1000&q=80)
+[![MasterHead](https://images.unsplash.com/photo-1593189470084-67c93499d9bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvcml6b250YWwlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D&w=1000&q=80)
 <h1 align="center">Hi 👋, I'm Görkem Kayı</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
