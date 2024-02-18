@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Kayı</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **c#**
+- 🔭 I’m currently working on **c#,.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
